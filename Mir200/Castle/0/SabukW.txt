@@ -1,11 +1,11 @@
 [Setup]
 CastleName=É³°Í¿Ë
 OwnGuild=
-ChangeDate=
-WarDate=
-IncomeToday=
-TotalGold=0
-TodayIncome=0
+ChangeDate=2017/8/1 0:58:49
+WarDate=2017/8/1 0:58:49
+IncomeToday=2017/8/3 0:00:09
+TotalGold=5
+TodayIncome=5
 
 [Defense]
 CastleMapList=new0151,new0152,new0153,new0154,new0155,new0156,new01571,new01581,
